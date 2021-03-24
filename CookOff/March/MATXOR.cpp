@@ -1,33 +1,28 @@
 
 #include <bits/stdc++.h>
+#define ll long long int
 using namespace std;
 
 int main()
 {
-    long int t;
+    ll t;
     cin>>t;
     while (t--)
     {
-        long long int N,M,K;
-        int xor_arr = 0;
+        ll N,M,K;
+        ll output = 0;
         cin>>N>>M>>K;
-        long long int mat[N][M];
-        for (int i=0; i<N; i++)
+        for (ll i=1; i<=N; i++)
         {
-            for (int j=0; j<M; j++)
-            {
-                mat[i][j] = K+i+1+j+1;
-            }
+            if (min(i,M)%2 == 1)
+                output ^= K+i+1;
         }
-        for (int i=0; i<N;i++)
+        // Last row
+        for (ll j=2; j<=M; j++)
         {
-            for (int j=0; j<M; j++)
-            {
-                xor_arr = xor_arr ^ mat[i][j];
-            }
+            if (min(N,M-j+1) %2 == 1)
+                output ^= K+N+j;
         }
-        cout<<xor_arr<<endl;
+        cout<<output<<endl;
     }
 }
-
-//Time Limit is excceded
