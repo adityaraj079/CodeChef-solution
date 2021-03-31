@@ -1,8 +1,8 @@
 # CodeChef-solution
 
-In this repo i am gonna push all my CodeChef's solutions.
+All my CodeChef solutions are present here
 
-CodeChef username - rajaditya079             Currently at 1622 rating 3 stars;
+CodeChef username - rajaditya079             Currently at 1622 rating 3 stars:
 
 
 # What this repository contains?
