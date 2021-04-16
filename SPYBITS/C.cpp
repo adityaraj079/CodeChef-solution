@@ -22,7 +22,7 @@ int main()
             output = output+a;
             a++;
         }
-        cout<<output<<endl;
+        cout<<output+a+1<<endl;
     }
 }
 
