@@ -16,6 +16,5 @@ March Long Challenge  |  https://github.com/adityaraj079/CodeChef-solution/tree/
 Cook Off (March)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/March  |  COOK127C
 Lunchtime (March)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/March  |  LTIME94C
 Starters (March)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/March  |  START2C
-Long Challenge (April)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/April  |  APRIL21B
-
+Long Challenge (April)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/April  |  APRIL21Bs
 SPYBITS IIT BHU  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/SPYBITS  |  SPYB21C
