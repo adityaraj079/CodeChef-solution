@@ -2,7 +2,7 @@
 
 All my CodeChef solutions are present here.
 
-CodeChef username - rajaditya079             Currently at 1622 rating 3 stars:
+CodeChef username - rajaditya079             Currently at 1642 rating 3 stars:
 
 
 # What this repository contains?
