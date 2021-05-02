@@ -20,4 +20,4 @@ Long Challenge (April)  |  https://github.com/adityaraj079/CodeChef-solution/tre
 SPYBITS IIT BHU  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/SPYBITS  |  SPYB21C
 April Cook-off  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/April  |  COOK128
 April Starters  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/April  |  START3
-Aptil Lunchtime  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/April  |  
+April Lunchtime  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/April  |  LTIME95B
