@@ -1,0 +1,1 @@
+cout<<out_arr[j]<<" ";
