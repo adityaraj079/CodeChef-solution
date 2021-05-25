@@ -21,3 +21,5 @@ SPYBITS IIT BHU  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/
 April Cook-off  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/April  |  COOK128
 April Starters  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/April  |  START3
 April Lunchtime  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/April  |  LTIME95B
+Long Challenge (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/May  |  MAY21C
+Cook-off (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/May  |  COOK129B
