@@ -24,3 +24,4 @@ April Lunchtime  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/
 Long Challenge (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/May  |  MAY21C
 Cook-off (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/May  |  COOK129B
 Lunchtime (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/May  |  LTIME96B
+CookOff (June)  |   https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/June  |  COOK130B
