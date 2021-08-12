@@ -2,7 +2,7 @@
 
 All my CodeChef solutions are present here.
 
-CodeChef username - rajaditya079             Currently at 1668 rating 3 stars
+CodeChef username - rajaditya079             Currently at 1674 rating 3 stars
 
 
 # What this repository contains?
@@ -27,3 +27,4 @@ Lunchtime (May)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/
 CookOff (June)  |   https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/June  |  COOK130B
 Lunchtime (June)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/June  |  LTIME97B
 CookOff (July)  |   https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/June  |  COOK131B
+Lunchtime (July)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/July  |  LTIME98B
