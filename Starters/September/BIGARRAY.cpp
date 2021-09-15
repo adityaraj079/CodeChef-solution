@@ -1,24 +1,19 @@
 #include <bits/stdc++.h>
+#define ll long long int
 using namespace std;
 
 int main()
 {
-    int t; cin>>t;
+    ll t;
+    cin>>t;
     while(t--)
     {
-        int n, s;
-      cin >> n >> s;
-
-      int ans = n * (n + 1) / 2;
-
-      
-
-      ans = ans - s;
-
-      
-
-      if (ans >= 1 and  ans <= n)  cout << ans << endl;
-
-      else cout << -1 << endl;
+      ll N,S;
+      cin>>N>>S;
+      ll ans = (N * (N+1)) /2;
+      ans = ans - S;
+      if (ans>=1 && ans<=N)
+        cout<<ans<<endl;
+      else  cout<<-1<<endl;
     }
 }
