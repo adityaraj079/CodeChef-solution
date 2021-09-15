@@ -30,4 +30,6 @@ CookOff (July)  |   https://github.com/adityaraj079/CodeChef-solution/tree/main/
 Lunchtime (July)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/July  |  LTIME98B
 CookOff (August)  |   https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/August  |  COOK132B
 Lunchtime (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/August  |  LTIME99C
-Starters (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/March  |  START10C
+Starters (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/August  |  START10B
+Long Challenge (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/September  |  SEPT21B
+Starters (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September  |  START11B
