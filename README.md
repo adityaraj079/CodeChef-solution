@@ -33,3 +33,4 @@ Lunchtime (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/ma
 Starters (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/August  |  START10B
 Long Challenge (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/September  |  SEPT21B
 Starters (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September  |  START11B
+Cook-off (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/September  |  COOK133B
