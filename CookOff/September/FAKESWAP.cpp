@@ -33,5 +33,10 @@ int main()
                 cc0++;
         }
         
+        if(cc1 > 0 and cc0 > 0){
+            cout << "YES" << endl;
+        }else{
+            cout << "NO" << endl;
+        }
     }
 }
