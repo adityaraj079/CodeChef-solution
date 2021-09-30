@@ -2,7 +2,7 @@
 
 All my CodeChef solutions are present here.
 
-CodeChef username - rajaditya079             Currently at 1667 rating 3 stars
+CodeChef username - rajaditya079             Currently at 1604 rating 3 stars
 
 
 # What this repository contains?
@@ -34,3 +34,7 @@ Starters (August)  |  https://github.com/adityaraj079/CodeChef-solution/tree/mai
 Long Challenge (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Long%20Chanlenge/September  |  SEPT21B
 Starters (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September  |  START11B
 Cook-off (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/CookOff/September  |  COOK133B
+Starters-12 (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September/Starter-12  |  START12B
+Lunchtime (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Lunchtime/September  |  LTIME100B
+Starters-13 (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September/Starter-13  |  START13B
+Starters-14 (September)  |  https://github.com/adityaraj079/CodeChef-solution/tree/main/Starters/September/Starter-14  |  START14B
